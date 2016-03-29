@@ -1,4 +1,7 @@
 # BaseModel
+
+详情请看demo
+
 iOS解析Model数据 方便解析字典与数组 以及 map.
 
 例子:
