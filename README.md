@@ -22,9 +22,13 @@ NSMutableArray *modelArray = [Rcu_Model baseModelObject:jsonArray];
 //解析结果
 
 (
+
 Rcu_Model: 0x7f9e21c34e40,
+
 Rcu_Model: 0x7f9e21c38c50,
+
 Rcu_Model: 0x7f9e21c38dd0
+
 )
 
 //将jsonArray解析为map类型model
@@ -34,7 +38,11 @@ NSMutableDictionary *mapModel = [Rcu_Model baseModelObject:jsonArray andKey:@"nu
 //解析结果
 
 {
+
 2 = Rcu_Model: 0x7f9e21f0db30;
+
 3 = Rcu_Model: 0x7f9e21fa9a80;
+
 4 = Rcu_Model: 0x7f9e21f60a90;
+
 }
