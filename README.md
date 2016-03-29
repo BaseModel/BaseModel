@@ -7,7 +7,6 @@ iOS解析Model数据 方便解析字典与数组 以及 map.
 
 json数组:
 
-
 NSArray *jsonArray = @[
 @{@"name":@"日光灯带",@"num":@"2",@"lineType":@"Light"},
 
